@@ -1,0 +1,7 @@
+this is new file
+  crated for moving to another repos
+
+    using git on ubuntu
+
+
+  thank you

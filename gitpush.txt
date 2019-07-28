@@ -1,9 +1,0 @@
-this is a pusing file to github web
-
-need to add
-
-and commit
-
- clone and push to web
-
- thank you
